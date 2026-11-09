@@ -9,3 +9,6 @@ solutions.ts => Contains all 8 coding problem solutions implemented with explici
 ## blog 
 [blog-name-1] type-vs-interface => A detailed technical blog post explaining the core differences between type aliases and interface declarations in TypeScript.
 [blog-name-3] type-narrowing  => A detailed technical blog post explaining type narrowing concepts using typeof, instanceof, and the in operator.
+## Blog Links
+* [Read Blog 1: Type vs Interface](./%5Bblog-name-1%5D.md)
+* [Read Blog 2: Type Narrowing](./%5Bblog-name-3%5D.md)
